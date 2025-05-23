@@ -4,4 +4,7 @@
 =======
 #header line 3
 #header line 5
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
