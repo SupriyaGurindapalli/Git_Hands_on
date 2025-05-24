@@ -1,3 +1,3 @@
 # My demo practice repo
-hello git
+Practiced git commands are in Git notes.docx
 
